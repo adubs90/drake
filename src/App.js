@@ -16,7 +16,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React better you person
+          Authentication
+          Profile Page
+          MobX
+          Routing
         </a>
       </header>
     </div>
