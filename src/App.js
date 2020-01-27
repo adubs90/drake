@@ -1,6 +1,11 @@
+import ApolloClient from 'apollo-boost';
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+
+const client = new ApolloClient({
+  uri: "GraphQL endpoint uri goes here"
+});
 
 function App() {
   return (
